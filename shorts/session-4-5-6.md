@@ -49,3 +49,15 @@ Animate the character from the image in a fast, dramatic 3D animated comedy scen
 ```
 Loop: «…also ignore.» → τηλέφωνο χτυπάει ξανά.
 Τίτλος: **POV: Someone Called You Instead of Texting 📞😱**
+
+---------------------------------------------------------------
+## Τέλος με ερώτηση στον θεατή (πρόσθεσε στο τέλος του ΚΛΙΠ B, πριν το "Keep ... appearance")
+
+### Session #4 (μιλάει εκείνη)
+Then she leans into the camera, raises one eyebrow and says: "And you? Ever sent a text you instantly regretted? Comment 'SEEN'. I'll wait."
+
+### Session #5 (μιλάει ο Dr. Byte)
+Then he leans into the camera, his red eye zooming in, and says: "Your turn. What time did YOUR boss send the worst 'quick question'? Comment below. Session's open."
+
+### Session #6 (μιλάει ο Dr. Byte)
+Then he leans into the camera, deadly serious, and says: "Be honest. When was the last time you answered an unknown number? Confess below. This is a safe space. Mostly."
