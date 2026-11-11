@@ -4,11 +4,11 @@
 
 ====================================================================
 ## SHORT A – 🩺 DIAGNOSIS: FOUR-WORD PANIC  (ανέβασμα 12:00)
-Κλιπ 1: Bild1 = patient_seen.jpg (αλογοουρά) · Κλιπ 2: Bild1 = Dr. Byte
+Κλιπ 1: Bild1 = patient_talk.jpg (νέα κοπέλα, κίτρινη ζακέτα) · Κλιπ 2: Bild1 = Dr. Byte
 
 ### Κλιπ 1 (10") – μιλάει ΜΟΝΟ εκείνη
 ```
-Animate the character from the image in a chaotic, high-energy 3D animated comedy scene, vertical 9:16, 10 seconds. The video starts instantly mid-scream at the very first frame, no intro: she shoves her glowing phone right into the camera lens and yells in a panicked female voice: "He texted 'We need to talk'! He's breaking up with me!" She spins around and frantically throws clothes and a pillow into an open suitcase, ponytail flying: "I'm moving to Iceland. Tonight!" Fast whip pans and punch-in zooms. Keep her exact appearance from the image. Only she speaks, one female voice. Phone screen is only a bright glow, no readable text. No subtitles, no on-screen text.
+Animate the character from the image in a chaotic, high-energy 3D animated comedy scene, vertical 9:16, 10 seconds. The video starts instantly mid-scream at the very first frame, no intro: she shoves her glowing phone right into the camera lens and yells in a panicked female voice: "He texted 'We need to talk'! He's breaking up with me!" She spins around and frantically throws clothes and a pillow into an open suitcase, long wavy hair flying: "I'm moving to Iceland. Tonight!" Fast whip pans and punch-in zooms. Keep her exact appearance from the image. Only she speaks, one female voice. Phone screen is only a bright glow, no readable text. No subtitles, no on-screen text.
 ```
 
 ### Κλιπ 2 (10") – μιλάει ΜΟΝΟ ο Dr. Byte
