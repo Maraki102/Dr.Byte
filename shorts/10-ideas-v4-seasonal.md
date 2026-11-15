@@ -70,3 +70,17 @@
 - Ανατροπή: βλέπει από το παράθυρο το βανάκι να φεύγει γρήγορα.
 - 🩺 Real: Use a parcel locker or pickup point. Your day is worth more than waiting.
 - ❓ Has YOUR courier ever "tried" to deliver?
+
+---
+
+# v5: Θέματα με ΠΡΑΓΜΑΤΙΚΕΣ ανατροπές (μετά από χαμηλές προβολές)
+ΚΑΝΟΝΕΣ: αστεία εικόνα από το 1ο δευτερόλεπτο · ιστορία 25–35s (4 πλάνα: 8+10+8+8) · απρόσμενη ανατροπή στο τέλος · Dr. Byte γρήγορος/ενεργητικός · τελική κάρτα 6s (συμβουλή + ερώτηση) για να διαβάζεται.
+
+1. 📞 Ψεύτικο τηλεφώνημα για να αποφύγει τον τύπο με τις υπογραφές → το κινητό χτυπάει δυνατά (Macarena) μέσα στο «τηλεφώνημα». «Caught in 4K.»
+2. 🚪 Περιμένει στο ματάκι να φύγει ο γείτονας → ανοίγει, και ο γείτονας κρύβεται κι αυτός πίσω από την πόρτα του. «Two introverts. One hallway.»
+3. 🚿 «5 min away!» από το ντους → split screen: η φίλη «Me too!» επίσης στο ντους. «Nobody is coming. Ever.»
+4. ❤️ Like κατά λάθος σε φωτογραφία του πρώην από το 2015 → «He liked your photo from 2014». «Group discount.»
+5. 🪴 Όλα τα φυτά πεθαίνουν → και το πλαστικό ξεράθηκε. «It's not the plants. It's you.»
+6. 🧦 Χαμένη κάλτσα → πάρτι καλτσών μέσα στο πλυντήριο → λείπει και η κάλτσα από το πόδι του. «Sorry… VIP only.» ✅ (σε παραγωγή)
+7. 🛒 «Unexpected item in bagging area» → η υπάλληλος σκανάρει τον ίδιο: «Item: man, tired, 50% off.»
+8. 📧 Reply All «this meeting could've been an email» → CEO: «Agreed. Meeting cancelled. You're promoted.»
