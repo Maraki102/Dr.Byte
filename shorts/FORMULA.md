@@ -32,3 +32,9 @@
 - **Πρώτο δευτερόλεπτο καθαρό:** μία μόνο γραμμή κειμένου, η ετικέτα DIAGNOSIS μπαίνει όταν εμφανιστεί ο Dr. Byte.
 - **Κάτι νέο κάθε 3–4 δευτ.** · ιστορία 25–35s · τελική κάρτα 6s.
 - **Θέματα για ΟΛΟΥΣ** (όχι για λίγους).
+
+## 🗣️ Οι ατάκες του Dr. Byte (signature lines — επαναλαμβάνονται για να γίνουν «δικές του»)
+- ΚΛΕΙΣΙΜΟ σε κάθε βίντεο: **"Diagnosis delivered. Dignity not included."** ⭐
+- ΑΝΟΙΓΜΑ (όταν πετάγεται): **"Who's glitching today?"**
+- Κανόνας: μία ατάκα ανά βίντεο που να κάνει τον θεατή να σκεφτεί «τι είπε τώρα;» — σύντομη (≤8 λέξεις), ανατρεπτική, quotable.
+- Παραδείγματα: "You're not single… you're on HOLD." · "That's not love. That's an update you can't uninstall." · "You don't have trust issues. You have Wi-Fi issues." · "He'll save the city. He won't save the dinner."
