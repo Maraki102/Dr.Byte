@@ -38,3 +38,10 @@
 - ΑΝΟΙΓΜΑ (όταν πετάγεται): **"Who's glitching today?"**
 - Κανόνας: μία ατάκα ανά βίντεο που να κάνει τον θεατή να σκεφτεί «τι είπε τώρα;» — σύντομη (≤8 λέξεις), ανατρεπτική, quotable.
 - Παραδείγματα: "You're not single… you're on HOLD." · "That's not love. That's an update you can't uninstall." · "You don't have trust issues. You have Wi-Fi issues." · "He'll save the city. He won't save the dinner."
+
+## 🔥 ΥΦΟΣ DR. BYTE: ROAST (απόφαση Νοέμβριος 2026)
+- Τολμηρά αστείος: κοροϊδεύει ανοιχτά τους χαρακτήρες, ωμή αλήθεια στη μούρη.
+- Κοροϊδεύει ΣΥΜΠΕΡΙΦΟΡΑ, ποτέ σώμα/εμφάνιση/καταγωγή/θρησκεία.
+- Τρυπάει και τους δύο (όχι μόνο τον άντρα).
+- Παίξιμο: ψυχρό, ανέκφραστο, αργό, παύση πριν το τελευταίο κομμάτι (στο prompt: "cold, dry, deadpan… short pause before the last sentence").
+- Παράδειγμα: "32 years old. Headset on. Yelling at a woman who doesn't exist." (παύση) "Your mother is so proud."
