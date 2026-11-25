@@ -41,3 +41,19 @@
 12. 📧 «Per my last email» — "Corporate for: 'Can you read, Kevin?'"
 13. 🚶 10.000 βήματα — "Nine thousand eight hundred of them were to the door. For the delivery guy."
 14. 🛋️ «Just one episode» στις 23:00 — "It's 3 AM. That wasn't an episode. That was a hostage situation."
+
+## 🚀 ΑΝΑΒΑΘΜΙΣΗ (από έρευνα σε viral χαρακτήρες, 25/11/2026)
+Πρότυπα: Granny Spills (AI γιαγιά, ωμές συμβουλές σχέσεων/χρημάτων, 1M IG σε εβδομάδες), Duolingo Duo (unhinged μασκότ, αντιδρά σε trends αυθημερόν), TherapyJeff (2.8M, αληθινές συμβουλές με χιούμορ), Dr. Angelica Shiels («σαν να μας κατασκοπεύει»).
+
+1. ΣΗΜΑ ΚΑΤΑΤΕΘΕΝ: «Σάρωση» — το κόκκινο μάτι ανάβει, ήχος «μπιπ», "Running diagnosis…" πριν από κάθε ετυμηγορία.
+2. «ΣΕ ΞΕΡΩ»: τόσο συγκεκριμένες λεπτομέρειες που ο θεατής αναρωτιέται αν τον παρακολουθεί ("I've read your messages.").
+3. ΝΕΟ ΦΟΡΜΑ «ASK DR. BYTE»: μία ερώτηση → μία ατάκα, 1 πλάνο (8–10s), φθηνό, πολλά τη βδομάδα, συχνά απάντηση σε αληθινά σχόλια.
+4. ΑΥΘΗΜΕΡΟΝ TRENDS (Duolingo-style): αντίδραση στην ίδια μέρα.
+5. Ψυχαγωγία πρώτα, η συμβουλή μένει (TherapyJeff), αλλά σύντομη.
+6. Μελλοντικά «stunts»: ο Dr. Byte «απολύεται», «πάει διακοπές», «ερωτεύεται τη Siri».
+
+### Ask Dr. Byte – παραδείγματα
+- "Should I text him first?" → "He has Wi-Fi, two thumbs and nine hours of screen time." (παύση) "He's not busy. You're optional."
+- "He says he's not ready for a relationship." → "He's ready." (παύση) "Just not with you. That'll be fifty euros."
+- "He spends 40 minutes in the bathroom with his phone." → "That's not a bathroom break." (παύση) "That's a second life."
+- "My friends cancel plans last minute." → "They didn't cancel. They finally said what they meant in July."
